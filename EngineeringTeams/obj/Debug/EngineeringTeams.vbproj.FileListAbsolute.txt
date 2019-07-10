@@ -1,0 +1,13 @@
+C:\Users\Sofia\source\repos\EngineeringTeams\EngineeringTeams\bin\Debug\EngineeringTeams.exe.config
+C:\Users\Sofia\source\repos\EngineeringTeams\EngineeringTeams\bin\Debug\EngineeringTeams.exe
+C:\Users\Sofia\source\repos\EngineeringTeams\EngineeringTeams\bin\Debug\EngineeringTeams.pdb
+C:\Users\Sofia\source\repos\EngineeringTeams\EngineeringTeams\bin\Debug\EngineeringTeams.xml
+C:\Users\Sofia\source\repos\EngineeringTeams\EngineeringTeams\obj\Debug\EngineeringTeams.vbprojAssemblyReference.cache
+C:\Users\Sofia\source\repos\EngineeringTeams\EngineeringTeams\obj\Debug\EngineeringTeams.Form1.resources
+C:\Users\Sofia\source\repos\EngineeringTeams\EngineeringTeams\obj\Debug\EngineeringTeams.Form2.resources
+C:\Users\Sofia\source\repos\EngineeringTeams\EngineeringTeams\obj\Debug\EngineeringTeams.Resources.resources
+C:\Users\Sofia\source\repos\EngineeringTeams\EngineeringTeams\obj\Debug\EngineeringTeams.vbproj.GenerateResource.cache
+C:\Users\Sofia\source\repos\EngineeringTeams\EngineeringTeams\obj\Debug\EngineeringTeams.vbproj.CoreCompileInputs.cache
+C:\Users\Sofia\source\repos\EngineeringTeams\EngineeringTeams\obj\Debug\EngineeringTeams.exe
+C:\Users\Sofia\source\repos\EngineeringTeams\EngineeringTeams\obj\Debug\EngineeringTeams.xml
+C:\Users\Sofia\source\repos\EngineeringTeams\EngineeringTeams\obj\Debug\EngineeringTeams.pdb
